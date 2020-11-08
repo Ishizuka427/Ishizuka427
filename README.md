@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Japan.
-- 📫 How to reach me: https://suwa3.github.io/
+- 📫 How to reach me: https://twitter.com/_Tsuka3
 
