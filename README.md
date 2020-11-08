@@ -11,6 +11,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Japan
+- 🔭 I’m currently working on Japan.
 - 📫 How to reach me: https://suwa3.github.io/
 
