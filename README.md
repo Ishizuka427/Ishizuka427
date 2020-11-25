@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ishizuka427&show_icons=true&title_color=228b22&icon_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizuka427&layout=compact&title_color=228b22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishizuka427&layout=compact&title_color=ffd700)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
