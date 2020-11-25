@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 設計図作り: 1
 
-ガラス選び: 1
+ガラス選び: 2
 
 ガラス切り: 3
 
