@@ -9,7 +9,5 @@
 
 Here are some ideas to get you started:
 -->
-I am aware that I am impatient, bored, and lazy like a hare. So I would like to make sure that I do not neglect my slow but steady efforts like a tortoise. From the Japanese fairy tale "The Hare and the Tortoise".
-
 - 🔭 I’m currently working on Japan.
 - 📫 How to reach me: https://twitter.com/_Tsuka3
