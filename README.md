@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Japan.
 - 📫 How to reach me: https://twitter.com/_Tsuka3
 - Objectives: https://github.com/Ishizuka427/MindMap
-- Taskｓ: https://github.com/Ishizuka427/Tasks
+- Tasks: https://github.com/Ishizuka427/Tasks
